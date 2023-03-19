@@ -1,2 +1,2 @@
 # principal
-mi repo principal =D
+mi repo de prueba =D
