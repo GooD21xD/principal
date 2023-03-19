@@ -1,2 +1,2 @@
 # principal
-mi rama principal =D
+mi repo principal =D
